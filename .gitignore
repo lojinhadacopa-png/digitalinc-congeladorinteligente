@@ -1,2 +1,8 @@
 .DS_Store
 .vercel
+node_modules/
+input.css
+output.css
+package.json
+package-lock.json
+tailwind.config.js
